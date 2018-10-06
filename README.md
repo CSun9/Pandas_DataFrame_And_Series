@@ -5,4 +5,4 @@ If you're looking for starting with Pandas DataFrame, this repo is for you. Ther
 
 ### [1. Pandas DataFrame](https://github.com/DakshHub/Pandas_DataFrame_And_Series/blob/master/DataFrame/Pandas%20DataFrame.ipynb)
 
-### [2. Pandas Series - Under Construction TBD]()
+### [2. Pandas Series ](https://github.com/DakshHub/Pandas_DataFrame_And_Series/blob/master/Series/Pandas%20Series.ipynb)
